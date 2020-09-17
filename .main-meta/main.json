@@ -40,11 +40,11 @@
         "subcategories": [
             "Peripherals",
             [
-               "Peripherals", "PWM",
+               "Peripherals", "PWM"
             ]            			
         ],
         "peripherals": [
-            "PWM",
+            "PWM"
         ],
         "keywords": [
             "Getting Started",
@@ -52,7 +52,7 @@
 			"CCP1",
 			"PWM3",
 			"RGB",
-			"Driving LEDs",
+			"Driving LEDs"
         ],
 		"additionalData": {
 			"longDescription": {
